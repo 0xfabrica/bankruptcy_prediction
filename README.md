@@ -53,7 +53,7 @@ El dataset se compone de datos financieros recopilados del *Taiwan Economic Jour
   - **X94:** Net Income Flag (Indicador de ingresos netos negativos en los últimos 2 años)
   - **X95:** Equity to Liability (Relación entre patrimonio y pasivo)
 
-Se pueden consultar más detalles y la fuente completa en el [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction).
+Se pueden consultar más detalles y la fuente completa en el [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction) o en la plataforma Kaggle, de donde fue extraído el dataset: [Kaggle](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction/data)
 
 ---
 
